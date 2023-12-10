@@ -7,7 +7,7 @@
 ## 🛠 Tools used
 | Tools             |Applied                                                              |
 | ----------------- | ------------------------------------------------------------------ |
-| "" | VSCode |
+| IDE | VSCode |
 | Frontend | JS, CSS, HTML, Bootstrap|
 
 ## ✍ Author
